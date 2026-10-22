@@ -5,7 +5,7 @@ body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 16px;
     color: black;
-    background-color: #8baac8;
+    background-color: skyblue;
     max-width: 720px;
     margin:0 auto;
     padding: 30px 20px;
@@ -43,6 +43,7 @@ fieldset{
     border: 2px solid rgb(62, 44, 201);
     margin-bottom: 20px;
     background-color: #cae48e;
+    box-shadow: inset 0 0 30px rgba(150, 130, 228, 0.688);
 }
 legend{
     border: 1px solid black;
