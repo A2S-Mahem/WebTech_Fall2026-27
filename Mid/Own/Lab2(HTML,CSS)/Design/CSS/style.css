@@ -5,7 +5,7 @@ body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 16px;
     color: black;
-    background-color: #eef3f8;
+    background-color: #8baac8;
     max-width: 720px;
     margin:0 auto;
     padding: 30px 20px;
@@ -37,3 +37,19 @@ h1{
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
 }
+fieldset{
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid rgb(62, 44, 201);
+    margin-bottom: 20px;
+    background-color: #cae48e;
+}
+legend{
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 6px 14px ;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: red;
+}
+
